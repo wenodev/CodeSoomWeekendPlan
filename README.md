@@ -1,1 +1,1 @@
-# CodeSoomWeekendPlan
+# 코드숨 진행하는 동안 주말에도 효율적인 공부를 하기 위한 Repository
